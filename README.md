@@ -1,16 +1,15 @@
-## Hi there 👋
+# KhangWeb
 
-<!--
-**khangweb/khangweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Giải pháp Web App & E-commerce trên nền tảng Laravel & Bagisto.
 
-Here are some ideas to get you started:
+🌐 Website: [khangweb.com](https://khangweb.com)
+📧 Email: khangwebservice@gmail.com
+📘 Facebook: [KhangWeb Company](https://www.facebook.com/KhangWebCompany)
+💼 LinkedIn: [Nguyễn Quang Minh](https://www.linkedin.com/in/minh-nguyen-khangweb/)
+▶️ YouTube: [KhangWeb Channel](https://www.youtube.com/@KhangWeb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dự án mã nguồn mở
+- [Khang Affiliate Suite](https://github.com/khangweb/Khang-Affiliate-Suite) — Tạo website miễn phí với Bagisto, hỗ trợ affiliate marketing.
+
+---
+*Sáng lập bởi Nguyễn Quang Minh.*
